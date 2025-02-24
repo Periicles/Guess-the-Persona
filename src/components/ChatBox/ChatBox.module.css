@@ -25,6 +25,7 @@
 .userMessage {
   background-color: #9a1ce3;
   align-self: flex-end;
+  margin-left: auto;
 }
 
 .aiMessage {
@@ -40,6 +41,7 @@
 .inputField {
   flex: 1;
   padding: 8px;
+  color: #fff;
   border: 1px solid #402d48;
   background-color: #402d48;
   border-radius: 8px;
@@ -47,6 +49,7 @@
 
 .sendButton {
   margin-left: 8px;
+  color: #fff;
   background-color: #b41fd9;
   padding: 8px;
   border-radius: 8px;
